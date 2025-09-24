@@ -21,3 +21,5 @@ I made a small app that helps you find music based on your mood. You just type h
    ```bash
    git clone https://github.com/yourusername/ai-mood-playlist-generator.git
    cd ai-mood-playlist-generator
+Code File
+You can view the main Python code here: [my_project.py](my_project.py)
